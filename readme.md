@@ -18,6 +18,8 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 
 ## Features
 
+- Configurable - Finds all kinds of raw Data like xlsx, txt, csv, pickle, feather, etc  
+- Configurable - you set the root directory and it searches everywhere for data  
 - Automates boring stuff 
 - Easily Configurable 
 - Makes your work open source 
