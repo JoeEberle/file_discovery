@@ -4,15 +4,15 @@
 
 ## Description
 
-Welcome to the ** Data Disovery ** repository! This project demonstrates how find and register all your valuable date - EASILY  !!!   
+Welcome to the ** Data Disovery ** repository! This project demonstrates how find and register all your valuable date - EASILY  !!! 
+
+Data Discovery is an important data science - It is important to find your latest and most up to data data files   
 
 ![Code Logo](code.png)
 
 ## NOTE - THIS REPOSITORY WORK IN PROGRESS 
 
-Data Disovery is an important data science - It is important to find your latest and most up to data data files 
-
-The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
+## There are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
 
 ![Code Logo](sample.png)
 
@@ -40,7 +40,7 @@ The are many ways to do this. It isnt perfect !!! so Experiment. Branch it and C
 
 ## Getting Started
 
-To get started with the **  Data Disovery ** project, follow these steps:
+To get started with the **  Data Discovery ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
