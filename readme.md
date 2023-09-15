@@ -1,24 +1,23 @@
-# Data Disovery  - Find all your latest DATA - Its EASY !!!   
+# File Disovery  - Find all your latest Files - Its EASY !!!   
+
+![Code Logo](code.png)
 
 ![Code Logo](developer.png)
 
 ## Description
 
-Welcome to the ** Data Disovery ** repository! This project demonstrates how find and register all your valuable date - EASILY  !!! 
+Welcome to the ** File Disovery ** repository! This project demonstrates how find and register files - EASILY  !!! 
 
-Data Discovery is an important data science - It is important to find your latest and most up to data data files   
 
-![Code Logo](code.png)
+![Code Logo](developer.png)
 
-## NOTE - THIS REPOSITORY WORK IN PROGRESS 
-
-## There are many ways to do this. It isnt perfect !!! so Experiment. Branch it and Change it. Collaborate and HAVE FUN !!! 
+  
 
 ![Code Logo](sample.png)
 
 ## Features
 
-- Configurable - Finds all kinds of raw Data like xlsx, txt, csv, pickle, feather, etc  
+- Configurable - Finds all kinds of raw files like xlsx, txt, csv, pickle, feather, etc  
 - Configurable - you set the root directory and it searches everywhere for data  
 - Automates boring stuff 
 - Easily Configurable 
@@ -40,7 +39,7 @@ Data Discovery is an important data science - It is important to find your lates
 
 ## Getting Started
 
-To get started with the **  Data Discovery ** project, follow these steps:
+To get started with the **  File Disovery ** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
