@@ -1,0 +1,74 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-15 15:59:01,945 - INFO - START file_discovery =============================================
+2023-09-15 15:59:01,946 - INFO - START file_discovery Start Time = 2023-09-15 15:59:01
+2023-09-15 15:59:01,946 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-09-15 15:59:01,971 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-15 15:59:01,971 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-15 15:59:07,595 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-09-15 15:59:14,605 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-09-15 15:59:20,291 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-09-15 15:59:20,320 - INFO - PERFORMANCE file_discovery The total process duration was:18.37
+2023-09-15 15:59:20,320 - INFO - PERFORMANCE file_discovery Stop Time = 2023-09-15 15:59:20
+2023-09-15 15:59:20,320 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:18.37
+2023-09-15 15:59:20,320 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-09-15 15:59:20,320 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-15 16:18:03,961 - INFO - START file_discovery =============================================
+2023-09-15 16:18:03,961 - INFO - START file_discovery Start Time = 2023-09-15 16:18:03
+2023-09-15 16:18:03,961 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-09-15 16:18:03,983 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-15 16:18:03,983 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-15 16:18:09,653 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-09-15 16:18:16,689 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-09-15 16:18:22,370 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-09-15 16:18:22,570 - INFO - PERFORMANCE file_discovery The total process duration was:18.61
+2023-09-15 16:18:22,570 - INFO - PERFORMANCE file_discovery Stop Time = 2023-09-15 16:18:22
+2023-09-15 16:18:22,570 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:18.61
+2023-09-15 16:18:22,570 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-09-15 16:18:22,570 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-15 16:24:02,457 - INFO - START file_discovery =============================================
+2023-09-15 16:24:02,457 - INFO - START file_discovery Start Time = 2023-09-15 16:24:02
+2023-09-15 16:24:02,457 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-09-15 16:24:02,481 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-15 16:24:02,482 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-15 16:24:08,141 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-09-15 16:24:15,174 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-09-15 16:24:20,862 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-09-15 16:24:31,206 - INFO - Process file_discovery Step 2 Persisted Results to c:\working_directory\file_registry\pdf_files.xlsx 
+2023-09-15 16:24:59,329 - INFO - PERFORMANCE file_discovery The total process duration was:56.87
+2023-09-15 16:24:59,329 - INFO - PERFORMANCE file_discovery Stop Time = 2023-09-15 16:24:59
+2023-09-15 16:24:59,329 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:56.87
+2023-09-15 16:24:59,329 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-09-15 16:24:59,329 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-15 16:26:46,271 - INFO - START file_discovery =============================================
+2023-09-15 16:26:46,271 - INFO - START file_discovery Start Time = 2023-09-15 16:26:46
+2023-09-15 16:26:46,271 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-09-15 16:26:46,294 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-15 16:26:46,294 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-15 16:26:51,939 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-09-15 16:26:58,967 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-09-15 16:27:04,653 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-09-15 16:27:14,992 - INFO - Process file_discovery Step 2 Persisted Results to c:\working_directory\file_registry\pdf_files.xlsx 
+2023-09-15 16:27:15,022 - INFO - PERFORMANCE file_discovery The total process duration was:28.75
+2023-09-15 16:27:15,022 - INFO - PERFORMANCE file_discovery Stop Time = 2023-09-15 16:27:15
+2023-09-15 16:27:15,022 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:28.75
+2023-09-15 16:27:15,022 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-09-15 16:27:15,022 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
