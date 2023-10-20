@@ -1,8 +1,7 @@
-# File Disovery  - Find all your latest Files - Its EASY !!!   
+# File Discovery  - Find all your latest Data & Files 
+# Its EASY and Automated 
 
 ![Code Logo](code.png)
-
-![Code Logo](developer.png)
 
 ## Description
 
