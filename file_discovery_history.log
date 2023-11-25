@@ -72,3 +72,66 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-11-17 07:57:01,801 - INFO - START file_discovery =============================================
+2023-11-17 07:57:01,802 - INFO - START file_discovery Start Time = 2023-11-17 07:57:01
+2023-11-17 07:57:01,802 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-11-17 07:57:01,823 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-11-17 07:57:01,823 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-11-17 07:57:07,472 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-11-17 07:58:10,462 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-11-17 07:58:16,253 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-11-17 07:59:36,120 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .csv
+2023-11-17 07:59:41,942 - INFO - Process file_discovery Step 1 Results - found 86 files of type .csv
+2023-11-17 08:01:16,858 - INFO - Process file_discovery Step 2 Persisted Results to c:\working_directory\file_registry\discovered_files.xlsx 
+2023-11-17 08:01:26,237 - INFO - PERFORMANCE file_discovery The total process duration was:264.43
+2023-11-17 08:01:26,237 - INFO - PERFORMANCE file_discovery Stop Time = 2023-11-17 08:01:26
+2023-11-17 08:01:26,237 - INFO - PERFORMANCE file_discovery Medium process duration greater than 3 minutes:264.43
+2023-11-17 08:01:26,237 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-11-17 08:01:26,237 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-11-17 08:01:45,762 - INFO - START file_discovery =============================================
+2023-11-17 08:01:45,762 - INFO - START file_discovery Start Time = 2023-11-17 08:01:45
+2023-11-17 08:01:45,762 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-11-17 08:01:45,797 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-11-17 08:01:45,798 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-11-17 08:01:51,414 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-11-17 08:01:58,528 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-11-17 08:02:04,284 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-11-17 08:02:11,371 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .csv
+2023-11-17 08:02:17,188 - INFO - Process file_discovery Step 1 Results - found 86 files of type .csv
+2023-11-17 08:02:27,615 - INFO - Process file_discovery Step 2 Persisted Results to c:\working_directory\file_registry\discovered_files.xlsx 
+2023-11-17 08:02:27,645 - INFO - PERFORMANCE file_discovery The total process duration was:41.88
+2023-11-17 08:02:27,645 - INFO - PERFORMANCE file_discovery Stop Time = 2023-11-17 08:02:27
+2023-11-17 08:02:27,645 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:41.88
+2023-11-17 08:02:27,645 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-11-17 08:02:27,645 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-11-17 08:04:03,437 - INFO - START file_discovery =============================================
+2023-11-17 08:04:03,437 - INFO - START file_discovery Start Time = 2023-11-17 08:04:03
+2023-11-17 08:04:03,437 - INFO - file_discovery Step 0 - Initialize the configuration file parser
+2023-11-17 08:04:03,460 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-11-17 08:04:03,460 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-11-17 08:04:09,080 - INFO - Process file_discovery Step 0 - Initializing and starting Process.
+2023-11-17 08:04:16,207 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .pdf
+2023-11-17 08:04:21,976 - INFO - Process file_discovery Step 1 Results - found 14 files of type .pdf
+2023-11-17 08:04:29,053 - INFO - Process file_discovery Step 1 - Searching directory c:/data for files of type .csv
+2023-11-17 08:04:34,875 - INFO - Process file_discovery Step 1 Results - found 86 files of type .csv
+2023-11-17 08:04:45,299 - INFO - Process file_discovery Step 2 Persisted Results to c:\working_directory\file_registry\discovered_files.xlsx 
+2023-11-17 08:04:45,326 - INFO - PERFORMANCE file_discovery The total process duration was:41.89
+2023-11-17 08:04:45,326 - INFO - PERFORMANCE file_discovery Stop Time = 2023-11-17 08:04:45
+2023-11-17 08:04:45,326 - INFO - PERFORMANCE file_discovery Low process duration less than 3 minutes:41.89
+2023-11-17 08:04:45,327 - INFO - PERFORMANCE file_discovery Performance optimization is optional
+2023-11-17 08:04:45,327 - INFO - END file_discovery =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
