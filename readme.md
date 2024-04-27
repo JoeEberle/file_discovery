@@ -1,12 +1,12 @@
 
-# File Discovery - Solution for File Discovery
-Solution for File Discovery
+# File Discovery - Discovers where your critical data is and provides archives. 
+Discovers where your critical data is and provides archives. 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **File Discovery** - an example for your projects
 
-Solution for File Discovery
+Discovers where your critical data is and provides archives. 
 
 ![Image image_filename](sample.png)
 
