@@ -46,4 +46,7 @@ To get started with the **File Discovery** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](file_discovery.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](file_discovery.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+    
