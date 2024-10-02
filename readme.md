@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# File Discovery - nan
-nan
+# File Discovery - Discovers where your critical data is and provides archives. 
+Discovers where your critical data is and provides archives. 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **File Discovery** - an example for your projects
 
-nan
+Discovers where your critical data is and provides archives. 
 
 ![Image image_filename](sample.png)
 
