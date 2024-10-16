@@ -39,11 +39,8 @@ To get started with the **File Discovery** solution repository, follow these ste
  ![additional_image](file_discovery.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
